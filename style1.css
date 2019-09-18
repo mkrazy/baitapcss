@@ -1,0 +1,8 @@
+p {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    font-size: 36px;
+    text-decoration: line-through;
+    color: orange;
+}
